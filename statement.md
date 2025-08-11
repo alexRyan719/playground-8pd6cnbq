@@ -1,4 +1,10 @@
-# Welcome!
+# Welcome, to Mr. Smuff's Technical Academy! I am Mr. Smufff, and I implore you to take a look around!
+
+# Who is Mr. Smuff?
+
+Mr. Smuff is a kind forest gnome that enjoys helping others. He has taken it upon himself to start an
+academy where curious minds could dabble in the Science and Sorcery that is Computer Science. 
+
 
 This Node.js template lets you get started quickly with a simple one-page playground.
 
