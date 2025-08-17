@@ -4,3 +4,5 @@ plan:
   statement: MD/welcome.md
 - title: How to get started
   statement: MD/how_to_get_started.md
+- title: CompTIA Network+
+  statement: MD/network_plus.md
