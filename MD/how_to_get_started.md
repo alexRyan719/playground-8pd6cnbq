@@ -1,0 +1,25 @@
+# Tech in neat, I want to work with it. But how do I get started?
+
+# Resume Building
+
+Most resumes perform better with tangible data. If you're able to describe in calcuable amounts how
+you benefitted your previous companies. It's a good idea to have a basic resume with all your work
+experience, skills, and any relevant volunteer or other information. 
+
+# Example Resumes
+
+
+
+Crane Operator 
+https://docs.google.com/document/d/1xZDC-gW_410cPMar7P9VosDq9C-AfIiJSJWt6MBSqX4/edit?tab=t.0#heading=h.sbziogryzzql
+
+
+# Security Consultants
+
+Almost every business today will at some point run a security check. This could range from sending 
+a fake phishing email to actually having a security consultant break in and test all security
+features of the company. 
+
+# For Gaming Industry Career Advice
+
+Look up Dr. Brandon and say you saw that aRye 
