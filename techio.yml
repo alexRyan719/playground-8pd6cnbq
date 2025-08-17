@@ -1,4 +1,6 @@
 title: Mr. Smuff's Free Technical Academy
 plan:
 - title: Node.js Snippet
-  statement: statement.md
+  statement: MD/statement.md
+- title: How to get started
+  statement: MD/how_to_get_started.md
