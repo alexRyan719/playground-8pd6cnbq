@@ -6,3 +6,6 @@ plan:
   statement: MD/how_to_get_started.md
 - title: CompTIA Network+
   statement: MD/network_plus.md
+- title: CompTIA CISSP
+  statement: MD/cissp.md
+
