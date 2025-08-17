@@ -8,12 +8,17 @@ experience, skills, and any relevant volunteer or other information.
 
 # Example Resumes
 
-
-
 Crane Operator 
 
 <a href="https://docs.google.com/document/d/1xZDC-gW_410cPMar7P9VosDq9C-AfIiJSJWt6MBSqX4/edit?tab=t.0#heading=h.sbziogryzzql">Example Google Doc Resume</a>
 
+# Free Practice and Learning Resources
+
+<a href="https://www.codingame.com/">CodinGame</a>
+
+<a href="https://www.freecodecamp.org/">Code Wars</a>
+
+<a href="https://www.freecodecamp.org/">Free Code Camp</a>
 
 # Security Consultants
 
