@@ -12,7 +12,7 @@ experience, skills, and any relevant volunteer or other information.
 
 Crane Operator 
 
-https://docs.google.com/document/d/1xZDC-gW_410cPMar7P9VosDq9C-AfIiJSJWt6MBSqX4/edit?tab=t.0#heading=h.sbziogryzzql
+<a href="https://docs.google.com/document/d/1xZDC-gW_410cPMar7P9VosDq9C-AfIiJSJWt6MBSqX4/edit?tab=t.0#heading=h.sbziogryzzql">Example Google Doc Resume</a>
 
 
 # Security Consultants
