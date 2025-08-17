@@ -13,23 +13,23 @@ The (ISC)2 Certified Information Systems Security Professional (CISSP) is one of
 
 # The CISSP exam covers eight domains:
 
--Security and risk management
+- Security and risk management
 
--Asset security
+- Asset security
 
--Security architecture and engineering
+- Security architecture and engineering
 
--Communication and network security
+- Communication and network security
 
--Identity and access management (IAM)
+- Identity and access management (IAM)
 
--Security assessment and testing
+- Security assessment and testing
 
--Security operations
+- Security operations
 
--Software development security
+- Software development security
 
--Prerequisites: At least five years of experience in at least two of the eight CISSP domains.
+- Prerequisites: At least five years of experience in at least two of the eight CISSP domains.
 
 # Exam details
 
@@ -37,8 +37,8 @@ The six-hour exam includes 250 multiple-choice questions and advanced innovative
 
 CISSP can help IT professionals work in the following job roles:
 
--Chief information security officer
+- Chief information security officer
 
--Security administrator
+- Security administrator
 
--Security architect
+- Security architect
