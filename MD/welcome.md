@@ -1,4 +1,4 @@
-# Welcome, to Mr. Smuff's Technical Academy! I am Mr. Smuff, and I implore you to take a look around!
+Welcome, to Mr. Smuff's Technical Academy! I am Mr. Smuff, and I implore you to take a look around!
 
 # Who is Mr. Smuff?
 
