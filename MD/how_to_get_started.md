@@ -1,4 +1,4 @@
-# Tech in neat, I want to work with it. But how do I get started?
+Tech in neat, I want to work with it. But how do I get started?
 
 # Resume Building
 
