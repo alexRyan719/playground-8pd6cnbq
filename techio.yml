@@ -7,5 +7,6 @@ plan:
 - title: CompTIA Network+
   statement: MD/network_plus.md
 - title: CompTIA CISSP
-  statement: MD/cissp.md
-
+  statement: MD/cissp.md 
+- title: Working Globally
+  statement: MD/working_globally.md
