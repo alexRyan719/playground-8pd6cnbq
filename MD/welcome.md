@@ -1,4 +1,13 @@
-Welcome, to Mr. Smuff's Technical Academy! I am Mr. Smuff, and I implore you to take a look around!
+# Welcome!
+
+Welcome to Mr. Smuff's Technical Academy! I am Mr. Smuff, and I implore you to take a look around! 
+
+This acadamey is just starting out, so it might not seem like much at the moment. Remember to check
+back later to see what is being added! 
+
+We are going to start out with basics of how to apply for tech jobs and what one should know before
+applying to tech jobs. This includes any area of Computer Science or technical understanding that 
+could be relevant to the job being applied to. 
 
 # Who is Mr. Smuff?
 
