@@ -28,5 +28,5 @@ features of the company.
 
 # For Gaming Industry Career Advice
 
-Look up Dr. Brandon on LinkedIn and politely ask for Game Industry help. He may or may not assist. 
-https://www.linkedin.com/in/stracos/
+Look up <a href="https://www.linkedin.com/in/stracos/">Dr. Brandon</a> on LinkedIn and politely ask for Game Industry help. He may or may not assist. 
+
