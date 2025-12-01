@@ -10,7 +10,7 @@ succeed with just about any type of IT job.
 
 https://www.comptia.org/en-us/certifications/network/
 
-# Main Areas of Focus
+# Main Areas of Focus - From the Website
 
 Networking concepts (23%)
 -OSI model layers: physical, data link, network, transport, session, presentation, application.
