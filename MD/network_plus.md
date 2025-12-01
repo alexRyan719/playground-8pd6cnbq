@@ -13,8 +13,11 @@ https://www.comptia.org/en-us/certifications/network/
 # Main Areas of Focus - From the Website
 
 Networking concepts (23%)
+
 -OSI model layers: physical, data link, network, transport, session, presentation, application.
+
 -Networking appliances: routers, switches, firewalls, IDS/IPS, load balancers, proxies, NAS, SAN, and wireless devices.
+
 -Cloud concepts: NFV, VPC, network security groups, cloud gateways, deployment models (public, private, hybrid), service models (SaaS, IaaS, PaaS).
 -Ports and protocols: FTP, SFTP, SSH, Telnet, SMTP, DNS, DHCP, HTTP, HTTPS, SNMP, LDAP, RDP, SIP.
 -Traffic types: unicast, multicast, anycast, broadcast.
