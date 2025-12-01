@@ -12,7 +12,7 @@ https://www.comptia.org/en-us/certifications/network/
 
 # Main Areas of Focus - From the Website
 
-Networking concepts (23%)
+__Networking concepts (23%)__
 
 -OSI model layers: physical, data link, network, transport, session, presentation, application.
 
@@ -33,7 +33,7 @@ Networking concepts (23%)
 -IPv4 addressing: public vs. private, APIPA, RFC1918, loopback, subnetting (VLSM, CIDR), and address classes (A, B, C, D, E).
 
 
-Network implementation (20%)
+__Network implementation (20%)__
 
 -Routing technologies: static and dynamic routing (BGP, EIGRP, OSPF), route selection, NAT, PAT, FHRP, VIP, and subinterfaces.
 
@@ -79,7 +79,7 @@ Network implementation (20%)
 -Security features and defense: device hardening, NAC, key management, ACL, URL/content filtering, trusted vs. untrusted zones, and screened subnet.
 
 
-Network troubleshooting (24%)
+__Network troubleshooting (24%)__
 
 -Troubleshooting methodology: identifying the problem, establishing a theory, testing, planning, and implementing a solution, verifying functionality, and documenting findings.
 
